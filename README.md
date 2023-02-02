@@ -27,7 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Web capture_2-2-2023_104658_00awaudby github io](https://user-images.githubusercontent.com/84845712/216304432-924a4374-7863-4252-9daf-3923481b849e.jpeg)
+
 
 
 
