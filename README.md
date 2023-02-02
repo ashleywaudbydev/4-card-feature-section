@@ -41,6 +41,9 @@ Users should be able to:
 
 ## My process
 
+1. I built out the mark up using semantic HTML 
+2. I used CSS to style and make the ui lookm beautifull
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -53,11 +56,11 @@ Users should be able to:
 
 ### What I learned
 
-I leaned how to lay elements out both horizontally and vertically.
+I leaned how to lay elements out both horizontal and a vertical axis to cretae a beautifull design, this will help me when it comes to me doing more complex layouts with the grid system.
 
 ### Continued development
 
-I will focuss onb more challenges like this and different ones moving forward.
+I will focuss onb more challenges like this and different ones moving forward, hopefully eventually get on to creating really complex layouts.
 
 
 ## Author
