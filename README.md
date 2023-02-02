@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://00awaudby.github.io/4-card-feature-section/)
 
 ## My process
 
@@ -61,7 +61,7 @@ I will focuss onb more challenges like this and different ones moving forward.
 
 ## Author
 
-- Frontend Mentor - [@00awaudby](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@00awaudby](https://www.frontendmentor.io/profile/00awaudby)
 
 
 
