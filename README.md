@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://www.frontendmentor.io/solutions/4-crad-feature-section-5bupUMPG0u)
-- Live Site URL: (https://00awaudby.github.io/4-card-feature-section/)
+- Live Site URL: (https://ashleywaudbydev.github.io/4-card-feature-section/)
 
 ## My process
 
